@@ -1,0 +1,16 @@
+﻿instance;n;m;algorithme;runs;meilleur;moyenne;ecart_type;pire;temps_moyen_s;optimal_prouve;ref_meilleure_connue;ecart_pct
+petit_n20;20;63;Algorithme génétique;10;4;4;0.0;4;2.072;;4;0.0
+petit_n20;20;63;Colonies de fourmis;10;4;4;0.0;4;0.815;;4;0.0
+petit_n20;20;63;Exact (B&B DSATUR);1;4;4;0.0;4;0.0;True;4;0.0
+petit_n20;20;63;Recherche tabou;10;4;4;0.0;4;2.165;;4;0.0
+petit_n20;20;63;Recuit simulé;10;4;4;0.0;4;2.989;;4;0.0
+moyen_n60;60;533;Algorithme génétique;10;7;7;0.0;7;3.541;;7;0.0
+moyen_n60;60;533;Colonies de fourmis;10;8;8;0.0;8;2.319;;7;14.3
+moyen_n60;60;533;Exact (B&B DSATUR);1;7;7;0.0;7;0.158;True;7;0.0
+moyen_n60;60;533;Recherche tabou;10;7;7;0.0;7;2.607;;7;0.0
+moyen_n60;60;533;Recuit simulé;10;7;7;0.0;7;2.77;;7;0.0
+grand_n200;200;9886;Algorithme génétique;10;24;25.1;0.54;26;15.075;;24;4.6
+grand_n200;200;9886;Colonies de fourmis;10;29;29.3;0.46;30;11.697;;24;22.1
+grand_n200;200;9886;Exact (B&B DSATUR);1;29;29;0.0;29;30.008;False;24;20.8
+grand_n200;200;9886;Recherche tabou;10;24;24.6;0.49;25;6.188;;24;2.5
+grand_n200;200;9886;Recuit simulé;10;25;25.1;0.3;26;8.474;;24;4.6
